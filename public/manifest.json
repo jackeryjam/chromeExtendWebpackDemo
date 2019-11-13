@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "PoetryTab",
+    "version": "1.0",
+    "description": "PoetryTab:为你的浏览增加诗意",
+    "author": "Fizz",
+    "icons": {
+        "16": "img/test.png",
+        "48": "img/test.png",
+        "128": "img/test.png"
+    },
+    "browser_action": {
+        "default_icon": "img/test.png",
+        "default_title": "这是一个示例Chrome插件",
+        "default_popup": "popup.html"
+    }
+}
